@@ -83,7 +83,7 @@ const emotionColorClassMap = {
 };
 
 let currentFilter = "all";
-const RECENT_HISTORY_SIZE = 7;
+const RECENT_HISTORY_SIZE = 13;
 const recentEmotionKeys = [];
 
 function getEmotionPoolByFilter(filter) {
