@@ -117,6 +117,17 @@ body {
   place-items: center;
 }
 
+#heading {
+  margin: 0.6rem 0 0;
+  font-size: clamp(2rem, 7vw, 3.5rem);
+  line-height: 1.1;
+  text-wrap: balance;
+  min-height: 2.25em;
+  display: grid;
+  place-items: center;
+  font-color: #ffffff;
+}
+
 .emotion-text--positive {
   color: #ffd400;
 }
