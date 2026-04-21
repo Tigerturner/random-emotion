@@ -126,6 +126,7 @@ body {
   display: grid;
   place-items: center;
   font-color: #ffffff;
+  font-align: center;
 }
 
 .emotion-text--positive {
